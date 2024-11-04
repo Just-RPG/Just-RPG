@@ -1,0 +1,15 @@
+Java Launcher: C:\Program Files\Java\jdk-17.0.1\bin\java.exe
+Arguments: '--task, SRG_TO_MCP, --input, C:\Users\whdtj\.gradle\caches\modules-2\files-2.1\mekanism\Mekanism\1.20.1-10.4.9.61\37c352a49a089f88e1bd9d8b6f2b8762cd86e293\Mekanism-1.20.1-10.4.9.61-generators.jar, --output, C:\Users\whdtj\.gradle\caches\forge_gradle\deobf_dependencies\mekanism\Mekanism\1.20.1-10.4.9.61_mapped_parchment_2023.09.03-1.20.1\Mekanism-1.20.1-10.4.9.61_mapped_parchment_2023.09.03-1.20.1-generators.jar, --mcp, C:\Users\whdtj\.gradle\caches\parchmentgradle\org\parchmentmc\data\parchment-1.20.1\2023.09.03\parchment-1.20.1-2023.09.03.zip, --strip-signatures'
+Classpath:
+ - C:\Users\whdtj\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\installertools\1.4.4\installertools-1.4.4-fatjar.jar
+Working directory: D:\Mc\Mod\JustRPG\build\_RenameSrg2Mcp_1258309506
+Main class: net.minecraftforge.installertools.ConsoleTool
+====================================
+Task: SRG_TO_MCP
+Input:  C:\Users\whdtj\.gradle\caches\modules-2\files-2.1\mekanism\Mekanism\1.20.1-10.4.9.61\37c352a49a089f88e1bd9d8b6f2b8762cd86e293\Mekanism-1.20.1-10.4.9.61-generators.jar
+Output: C:\Users\whdtj\.gradle\caches\forge_gradle\deobf_dependencies\mekanism\Mekanism\1.20.1-10.4.9.61_mapped_parchment_2023.09.03-1.20.1\Mekanism-1.20.1-10.4.9.61_mapped_parchment_2023.09.03-1.20.1-generators.jar
+MCP:    C:\Users\whdtj\.gradle\caches\parchmentgradle\org\parchmentmc\data\parchment-1.20.1\2023.09.03\parchment-1.20.1-2023.09.03.zip
+Loading MCP Data
+Processing ZIP file
+Stripped Manifest of sha digests
+Process complete

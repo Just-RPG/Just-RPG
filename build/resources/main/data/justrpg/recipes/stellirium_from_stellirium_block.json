@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "justrpg:stellirium_block"
+    }
+  ],
+  "result": {
+    "item": "justrpg:stellirium_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "stellirium_ingot",
+  "ingredient": {
+    "item": "justrpg:raw_stellirium"
+  },
+  "result": "justrpg:stellirium_ingot"
+}

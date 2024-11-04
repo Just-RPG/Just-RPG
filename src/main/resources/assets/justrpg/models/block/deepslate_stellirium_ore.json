@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "justrpg:block/deepslate_stellirium_ore"
+  }
+}

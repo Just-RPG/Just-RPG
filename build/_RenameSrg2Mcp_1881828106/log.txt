@@ -1,0 +1,15 @@
+Java Launcher: C:\Program Files\Java\jdk-17.0.1\bin\java.exe
+Arguments: '--task, SRG_TO_MCP, --input, C:\Users\whdtj\.gradle\caches\modules-2\files-2.1\curse.maven\ftb-quests-forge-289412\5816794\8304908d8a236cd3ba4ebbf758d40f70868e71bc\ftb-quests-forge-289412-5816794.jar, --output, C:\Users\whdtj\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\ftb-quests-forge-289412\5816794_mapped_parchment_2023.09.03-1.20.1\ftb-quests-forge-289412-5816794_mapped_parchment_2023.09.03-1.20.1.jar, --mcp, C:\Users\whdtj\.gradle\caches\parchmentgradle\org\parchmentmc\data\parchment-1.20.1\2023.09.03\parchment-1.20.1-2023.09.03.zip, --strip-signatures'
+Classpath:
+ - C:\Users\whdtj\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\installertools\1.4.4\installertools-1.4.4-fatjar.jar
+Working directory: D:\Mc\Mod\JustRPG\build\_RenameSrg2Mcp_1881828106
+Main class: net.minecraftforge.installertools.ConsoleTool
+====================================
+Task: SRG_TO_MCP
+Input:  C:\Users\whdtj\.gradle\caches\modules-2\files-2.1\curse.maven\ftb-quests-forge-289412\5816794\8304908d8a236cd3ba4ebbf758d40f70868e71bc\ftb-quests-forge-289412-5816794.jar
+Output: C:\Users\whdtj\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\ftb-quests-forge-289412\5816794_mapped_parchment_2023.09.03-1.20.1\ftb-quests-forge-289412-5816794_mapped_parchment_2023.09.03-1.20.1.jar
+MCP:    C:\Users\whdtj\.gradle\caches\parchmentgradle\org\parchmentmc\data\parchment-1.20.1\2023.09.03\parchment-1.20.1-2023.09.03.zip
+Loading MCP Data
+Processing ZIP file
+Stripped Manifest of sha digests
+Process complete

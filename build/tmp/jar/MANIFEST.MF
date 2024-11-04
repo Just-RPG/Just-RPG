@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: justrpg
+Specification-Vendor: izuna_1
+Specification-Version: 1
+Implementation-Title: justrpg
+Implementation-Version: 1.0.0
+Implementation-Vendor: izuna_1
+Implementation-Timestamp: 2024-10-31T22:01:58+0900
+MixinConfigs: justrpg.mixins.json
+
